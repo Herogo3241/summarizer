@@ -18,6 +18,7 @@ This is a simple Streamlit web application that allows users to search for a top
 - [Streamlit](https://streamlit.io/)
 - [Transformers](https://huggingface.co/transformers/)
 - [Wikipedia-API](https://pypi.org/project/Wikipedia-API/)
+- Pytorch
 
 ## Installation
 
