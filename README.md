@@ -10,7 +10,7 @@ This is a simple Streamlit web application that allows users to search for a top
 
 ## Youtube Video
 
-![Watch the video](https://www.youtube.com/watch?v=mi7nVDxkrwc)
+[![Watch the video](http://img.youtube.com/vi/mi7nVDxkrwc/0.jpg)](https://www.youtube.com/watch?v=mi7nVDxkrwc)
 
 ## Requirements
 
