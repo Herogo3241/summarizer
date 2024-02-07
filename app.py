@@ -37,7 +37,7 @@ else:
         wikicontent = trim_text(wikicontent,1024)
 
 
-        st.title(e.options[0].tilte())
+        st.title(e.options[0].title())
         text = summarizer(wikicontent, max_length=200, min_length=100, do_sample=False)
         st.write(text[0]["summary_text"])
 
