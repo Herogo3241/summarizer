@@ -8,6 +8,10 @@ This is a simple Streamlit web application that allows users to search for a top
 - Summarize the content of the Wikipedia page using a pre-trained summarization model.
 - Handles disambiguation and empty content cases gracefully.
 
+## Youtube Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mi7nVDxkrwc" frameborder="0" allowfullscreen></iframe>
+
 ## Requirements
 
 - Python 3.x
@@ -45,5 +49,7 @@ This is a simple Streamlit web application that allows users to search for a top
 
 2. Enter the search term in the input box provided.
 3. The application will retrieve the Wikipedia page for the given search term, summarize it, and display the summary.
+
+
 
 
