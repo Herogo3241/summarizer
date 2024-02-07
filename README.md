@@ -10,7 +10,7 @@ This is a simple Streamlit web application that allows users to search for a top
 
 ## Youtube Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mi7nVDxkrwc" frameborder="0" allowfullscreen></iframe>
+[Watch the video](https://www.youtube.com/watch?v=mi7nVDxkrwc)
 
 ## Requirements
 
